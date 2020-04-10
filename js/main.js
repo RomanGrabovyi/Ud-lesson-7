@@ -1,11 +1,4 @@
 'use strict'
-// 10.04.2020
-// 10.04.2020
-// 10.04.2020
-// 10.04.2020
-// 10.04.2020
-// 10.04.2020
-// 10.04.2020
 
 let btnStart = document.getElementById('start'),
     budgetValue = document.getElementsByClassName('budget-value'),
