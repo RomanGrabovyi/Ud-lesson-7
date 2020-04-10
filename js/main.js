@@ -1,3 +1,5 @@
+'use strict'
+
 let btnStart = document.getElementById('start'),
     budgetValue = document.getElementsByClassName('budget-value'),
     dayBudgetValue = document.getElementsByClassName('daybudget-value'),
