@@ -22,6 +22,7 @@ let btnStart = document.getElementById('start'),
     monthValue = document.querySelector('.month-value'),
     dayValue = document.querySelector('.day-value');
 
+
 let money, time;
 
 function start() {
